@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Organizes the header of the page into a panal at the top with a specfic font and colors. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
